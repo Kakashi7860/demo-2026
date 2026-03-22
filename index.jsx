@@ -1,14 +1,21 @@
 
 
-function App() {
-  const handleClick = () => {
-    alert("Button clicked!");
+function App()  
+
+{
+  const handleClick = () => 
+    
+    {
+         alert("Button clicked!");
   };
 
-  return (
+
+        return 
+        
+        (
     <button onClick={handleClick}>
-      Click Me
-    </button>
+          Click Me
+         </button>
   );
 }
 
